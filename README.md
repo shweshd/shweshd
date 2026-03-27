@@ -1,7 +1,7 @@
-# 💫 About Me:
+# 🧑‍💻 About Me:
 [![Working](https://img.shields.io/badge/Currently%20Working%20On-building%20projects%20that%20turn%20ideas%20into%20real%20things-6D28D9?style=flat-square&logo=code&logoColor=white&labelColor=4C1D95&color=6D28D9)]() <br> [![Collaborate](https://img.shields.io/badge/Looking%20to%20Collaborate%20On-open%20source%20%26%20beginner%20friendly%20web%20projects-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=5B21B6&color=7C3AED)]() <br> [![Learning](https://img.shields.io/badge/Currently%20Learning-Python-8B5CF6?style=flat-square&logo=python&logoColor=white&labelColor=6D28D9&color=8B5CF6)]() <br>[![Ask](https://img.shields.io/badge/Ask%20Me%20About-web%20dev%2C%20coding%20journeys%2C%20or%20anything-6366F1?style=flat-square&logo=stackoverflow&logoColor=white&labelColor=4338CA&color=6366F1)]() <br>[![FunFact](https://img.shields.io/badge/Fun%20Fact-spent%206%20hours%20debugging%20a%20missing%20semicolon-4F46E5?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=312E81&color=4F46E5)]()
 
-## Portfolio:
+## 💼 Portfolio:
 [![Shwesh Dubey](https://img.shields.io/badge/Shwesh%20Dubey-shweshd.github.io-22D3EE?style=flat-square&logo=code&logoColor=white&labelColor=0891B2&color=22D3EE)](https://shweshd.github.io/Portfolio/)
 
 ## 🌐 Socials:
