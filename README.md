@@ -5,9 +5,9 @@
 [![Shwesh Dubey](https://img.shields.io/badge/Shwesh%20Dubey-shweshd.github.io-22D3EE?style=flat-square&logo=code&logoColor=white&labelColor=0891B2&color=22D3EE)](https://shweshd.github.io/Portfolio/)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shweshdubey-0077B5?style=flat-square&logo=linkedin-in&logoColor=white&v=2)](https://www.linkedin.com/in/shweshdubey/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shweshdubey-0077B5?style=flat-square&logo=linkedin-in&logoColor=0077B5&labelColor=ffffff&v=2)](https://www.linkedin.com/in/shweshdubey/)
 [![Instagram](https://img.shields.io/badge/Instagram-shweshhh__-6A0DAD?style=flat-square&logo=instagram&logoColor=8A2BE2&labelColor=ffffff)](https://www.instagram.com/shweshhh__)
-[![Email](https://img.shields.io/badge/Email-shweshd@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:shweshd@gmail.com)
+[![Email](https://img.shields.io/badge/Email-shweshd@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=D14836&labelColor=ffffff)](mailto:shweshd@gmail.com)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
