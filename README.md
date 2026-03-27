@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I'm currently working on ...building projects that turn ideas into real things<br>🤝 I'm looking to collaborate on ...open source & beginner-friendly web projects<br>🌱 I'm currently learning ...Python<br>💬 Ask me about ...web dev, coding journeys, or literally anything<br>⚡ Fun fact: ...I once spent 6 hours debugging, only to find a missing semicolon —and I'd do it again without hesitation.
 
+## Portfolio:
+[![Shwesh Dubey](https://img.shields.io/badge/Portfolio-shweshd.github.io-000000?style=flat-square&logo=code&logoColor=white)](https://shweshd.github.io/Portfolio/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shweshdubey-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shweshdubey/)
