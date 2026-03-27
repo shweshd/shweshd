@@ -6,7 +6,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shweshdubey-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shweshdubey/)
-[![Instagram](https://img.shields.io/badge/Instagram-shweshhh__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/shweshhh__)
+[![Instagram](https://img.shields.io/badge/Instagram-shweshhh__-ffffff?style=flat-square&logo=instagram&logoColor=8A2BE2)](https://www.instagram.com/shweshhh__)
 [![Email](https://img.shields.io/badge/Email-shweshd@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:shweshd@gmail.com)
 
 # 💻 Tech Stack:
