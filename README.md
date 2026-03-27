@@ -5,8 +5,8 @@
 [![Shwesh Dubey](https://img.shields.io/badge/Shwesh%20Dubey-shweshd.github.io-22D3EE?style=flat-square&logo=code&logoColor=white&labelColor=0891B2&color=22D3EE)](https://shweshd.github.io/Portfolio/)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shweshdubey-0077B5?style=flat-square&logo=linkedin-in&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/shweshdubey/)
-[![Instagram](https://img.shields.io/badge/Instagram-shweshhh__-ffffff?style=flat-square&logo=instagram&logoColor=8A2BE2&labelColor=4B0082)](https://www.instagram.com/shweshhh__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shweshdubey-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shweshdubey/)
+[![Instagram](https://img.shields.io/badge/Instagram-shweshhh__-ffffff?style=flat-square&logo=instagram&logoColor=8A2BE2&labelColor=6A0DAD)](https://www.instagram.com/shweshhh__)
 [![Email](https://img.shields.io/badge/Email-shweshd@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:shweshd@gmail.com)
 
 # 💻 Tech Stack:
