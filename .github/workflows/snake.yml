@@ -2,19 +2,24 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # runs every 6 hours
-  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+    - cron: "0 */12 * * *"   # regenerates twice a day
+  workflow_dispatch:          # lets you trigger it manually from the Actions tab
   push:
     branches:
-      - main                # change to "master" if that's your default branch
+      - main                  # change to "master" if that's your default branch
+
+permissions:
+  contents: write
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate snake animation
+        id: snake
         uses: Platane/snk@v3
         with:
           github_user_name: shweshd
@@ -22,10 +27,19 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Verify output files exist
+        run: |
+          echo "Contents of dist/ after generation:"
+          ls -la dist/
+          test -s dist/github-contribution-grid-snake.svg || (echo "::error::snake.svg was not generated" && exit 1)
+          test -s dist/github-contribution-grid-snake-dark.svg || (echo "::error::snake-dark.svg was not generated" && exit 1)
+
       - name: Push output to "output" branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
+          verbose: true
           target_branch: output
           build_dir: dist
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
