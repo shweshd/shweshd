@@ -50,7 +50,7 @@
       <img src="https://github-readme-stats.shion.dev/api?username=shweshd&theme=outrun&hide_border=false&include_all_commits=true&count_private=true" width="100%">
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shweshd&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height = 180px, width="100%">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shweshd&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height = 170px, width="100%">
     </td>
   </tr>
 </table>
