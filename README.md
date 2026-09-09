@@ -1,228 +1,74 @@
-<!-- ===================== HERO ===================== -->
 
-<div align="center">
 
-# 👨‍💻 Shwesh Dubey
-
-### `BCA Student` • `Python Developer` • `Aspiring Software Engineer`
-
-<p>
-  <a href="https://shweshd.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00D9FF?style=for-the-badge&labelColor=00111F&logoColor=white" />
-  </a>
-  <a href="https://github.com/shweshd">
-    <img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=00111F&labelColor=00D9FF" />
-  </a>
-  <a href="https://www.linkedin.com/in/shweshdubey/">
-    <img src="https://img.shields.io/badge/LINKEDIN-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00111F" />
-  </a>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml5MWR1YXd2YTh4b2x6cnZ1N21udXp3aW56cjN5NmJ3dmx3eGhndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SbdrXHzWCKKOAug9hL/giphy.gif" width="26%">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThheDI1ZWV2d2gwaTNmamRvcWVhM3lxM2hrMzl6Y3ZzZHg4MDg3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZJE1DzZOadRLoXzxX/giphy.gif" width="46.3%">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml5MWR1YXd2YTh4b2x6cnZ1N21udXp3aW56cjN5NmJ3dmx3eGhndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SbdrXHzWCKKOAug9hL/giphy.gif" width="26%">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00111F,50:002B40,100:00D9FF&height=2&section=header" width="70%"/>
-
-</div>
-
 ---
-
-<!-- ===================== ABOUT ===================== -->
 
 ## 🧑‍💻 About Me
 
-> **Building projects. Learning deeply. Growing into a software engineer.**
+<p align="left">
 
-I'm a **BCA student** focused on building strong foundations in programming, computer science, and software development.
-
-Currently, I'm focusing on **Python development**, while strengthening my knowledge of:
-
-- 🐍 Python
-- 🧠 Data Structures & Algorithms
-- ⚙️ Backend Development
-- 🗄️ Databases & SQL
-- 🐧 Linux
-- 🧩 Software Engineering Fundamentals
-
-My long-term goal is to build **scalable backend systems** and eventually work with **Artificial Intelligence and modern software architecture**.
-
----
-
-<!-- ===================== CURRENT FOCUS ===================== -->
-
-## ⚡ Current Focus
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔭 Working On
-
-Building practical projects that turn ideas into working software.
-
-</td>
-
-<td width="50%">
-
-### 🌱 Learning
-
-Python, DSA, SQL, Backend Development & Software Engineering.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤝 Open To
-
-Internships, collaborations, open-source projects and real-world development opportunities.
-
-</td>
-
-<td width="50%">
-
-### 💬 Ask Me About
-
-Python, web development, Git/GitHub and my programming journey.
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ===================== PORTFOLIO ===================== -->
-
-## 🌐 Explore My Portfolio
-
-<div align="center">
-
-<a href="https://shweshd.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-00D9FF?style=for-the-badge&labelColor=00111F" />
-</a>
-
-<br><br>
-
-<i>Explore my projects, skills, education and development journey.</i>
-
-</div>
-
----
-
-<!-- ===================== TECH STACK ===================== -->
-
-## 🛠️ Tech Stack
-
-### 💻 Programming & Web
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0B1F4B?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/JavaScript-0B1F4B?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/HTML5-0B1F4B?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-0B1F4B?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-0B1F4B?style=for-the-badge&logo=mysql&logoColor=00D9FF"/>
-</p>
-
-### ⚙️ Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-0B1F4B?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-0B1F4B?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0B1F4B?style=for-the-badge&logo=visual-studio-code&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/Canva-0B1F4B?style=for-the-badge&logo=canva&logoColor=00D9FF"/>
-</p>
-
----
-
-<!-- ===================== SOCIALS ===================== -->
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/shweshdubey/">
-  <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00111F"/>
-</a>
-
-<a href="https://github.com/shweshd">
-  <img src="https://img.shields.io/badge/GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=00111F"/>
-</a>
-
-<a href="https://www.instagram.com/shweshhh__">
-  <img src="https://img.shields.io/badge/Instagram-00D9FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=00111F"/>
-</a>
-
-<a href="mailto:shweshd@gmail.com">
-  <img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00111F"/>
-</a>
-
-</div>
-
----
-
-<!-- ===================== GITHUB STATS ===================== -->
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shweshd&show_icons=true&hide_border=true&bg_color=00111F&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shweshd&layout=compact&hide_border=true&bg_color=00111F&title_color=00D9FF&text_color=FFFFFF" height="170"/>
-
-</div>
+<img src="https://img.shields.io/badge/🔭_Currently_Working_On-Python_projects_%26_backend_development-000080?style=for-the-badge&labelColor=000080&color=000080">
 
 <br>
 
-<div align="center">
+<img src="https://img.shields.io/badge/🧑‍🤝‍🧑_Looking_to_Collaborate-Python%2C_backend_%26_open--source_projects-101B8F?style=for-the-badge&labelColor=101B8F&color=101B8F">
 
-<img src="https://streak-stats.demolab.com?user=shweshd&theme=dark&hide_border=true&background=00111F&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+<br>
 
-</div>
+<img src="https://img.shields.io/badge/🤝_Looking_for_Help_With-System_design_%26_advanced_backend_development-202F9E?style=for-the-badge&labelColor=202F9E&color=202F9E">
 
----
+<br>
 
-<!-- ===================== PROJECTS ===================== -->
+<img src="https://img.shields.io/badge/🌱_Currently_Learning-Python%2C_SQL%2C_REST_APIs%2C_FastAPI_%26_DSA-3043AD?style=for-the-badge&labelColor=3043AD&color=3043AD">
 
-## 🚀 Featured Projects
+<br>
 
-<div align="center">
+<img src="https://img.shields.io/badge/💬_Ask_Me_About-Python%2C_SQL%2C_Git%2C_GitHub_%26_backend_development-4057BC?style=for-the-badge&labelColor=4057BC&color=4057BC">
 
-<a href="https://github.com/shweshd/Password-Manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shweshd&repo=Password-Manager&hide_border=true&bg_color=00111F&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
-</a>
+<br>
 
-<a href="https://github.com/shweshd/Shortest-Path-Finder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shweshd&repo=Shortest-Path-Finder&hide_border=true&bg_color=00111F&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
-</a>
+<img src="https://img.shields.io/badge/⚡_Fun_Fact-The_best_way_to_learn_programming_is_by_building_things-506BD0?style=for-the-badge&labelColor=506BD0&color=506BD0">
 
-</div>
+</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-8585FF.svg?logo=Instagram&logoColor=white)](https://instagram.com/shweshhh__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/shweshdubey/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shweshd@gmail.com) 
 
-<!-- ===================== RANDOM QUOTE ===================== -->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-000080?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-## ✍️ Random Dev Quote
+# 📊 GitHub Stats:
+<table align="center">
+  <tr>
+    <td width="50%" height = 200px>
+      <img src="https://github-readme-stats.shion.dev/api?username=shweshd&theme=outrun&hide_border=false&include_all_commits=true&count_private=true" width="100%">
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shweshd&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height = 180px, width="100%">
+    </td>
+  </tr>
+</table>
 
-<div align="center">
+<br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=shweshd&theme=outrun&hide_border=false"
+    style="width:100%; height:200px; object-fit:fill;"
+  />
+</p>
 
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shweshd&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- ===================== FOOTER ===================== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:002B40,100:00111F&height=100&section=footer"/>
-
-### `Keep Learning • Keep Building • Keep Improving`
-
-**© 2026 Shwesh Dubey**
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shweshd&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
