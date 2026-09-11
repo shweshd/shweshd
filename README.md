@@ -1,10 +1,4 @@
-
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml5MWR1YXd2YTh4b2x6cnZ1N21udXp3aW56cjN5NmJ3dmx3eGhndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SbdrXHzWCKKOAug9hL/giphy.gif" width="26%">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThheDI1ZWV2d2gwaTNmamRvcWVhM3lxM2hrMzl6Y3ZzZHg4MDg3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZJE1DzZOadRLoXzxX/giphy.gif" width="46.3%">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml5MWR1YXd2YTh4b2x6cnZ1N21udXp3aW56cjN5NmJ3dmx3eGhndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SbdrXHzWCKKOAug9hL/giphy.gif" width="26%">
-</p>
+<p align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml5MWR1YXd2YTh4b2x6cnZ1N21udXp3aW56cjN5NmJ3dmx3eGhndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SbdrXHzWCKKOAug9hL/giphy.gif" width="25%"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThheDI1ZWV2d2gwaTNmamRvcWVhM3lxM2hrMzl6Y3ZzZHg4MDg3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZJE1DzZOadRLoXzxX/giphy.gif" width="45%"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml5MWR1YXd2YTh4b2x6cnZ1N21udXp3aW56cjN5NmJ3dmx3eGhndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SbdrXHzWCKKOAug9hL/giphy.gif" width="25%"> </p>
 
 ---
 
@@ -44,28 +38,28 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-<table align="center">
-  <tr>
-    <td width="50%" height = 200px>
-      <img src="https://github-readme-stats.shion.dev/api?username=shweshd&theme=outrun&hide_border=false&include_all_commits=true&count_private=true" width="100%">
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shweshd&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height = 170px, width="100%">
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=shweshd&theme=outrun&hide_border=false&include_all_commits=true&count_private=true"
+    width="44.8%"
+  >
+  <img
+    src="https://streak-stats.demolab.com/?user=shweshd&theme=outrun&hide_border=false"
+    width="49%"
+  >
+</p>
+
+
 
 <br/>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=shweshd&theme=outrun&hide_border=false"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=shweshd&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
     style="width:100%; height:200px; object-fit:fill;"
   />
 </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shweshd&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
