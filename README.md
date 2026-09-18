@@ -44,9 +44,11 @@
     src="https://github-readme-stats.shion.dev/api?username=shweshd&theme=outrun&hide_border=false&include_all_commits=true&count_private=true"
     width="44.8%"
   >
-  <img
-    src="https://streak-stats.demolab.com/?user=shweshd&theme=outrun&hide_border=false"
-    width="49%"
+ <img
+  src="https://streak-stats.demolab.com?user=shweshd&theme=outrun&hide_border=false"
+  width="49%"
+  alt="GitHub Streak"
+>
   >
 </p>
 
