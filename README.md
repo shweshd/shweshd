@@ -42,24 +42,13 @@
 <p align="center">
   <img
     src="https://github-readme-stats.shion.dev/api?username=shweshd&theme=outrun&hide_border=false&include_all_commits=true&count_private=true"
-    width="44.8%"
-  >
- <img
-  src="https://streak-stats.demolab.com?user=shweshd&theme=outrun&hide_border=false"
-  width="49%"
-  alt="GitHub Streak"
->
-  >
-</p>
-
-
-
-<br/>
+    style="width:75%;"
+    </p>
 
 <p align="center">
   <img
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=shweshd&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    style="width:100%; height:200px; object-fit:fill;"
+    style="width:75%;"
   />
 </p>
 
